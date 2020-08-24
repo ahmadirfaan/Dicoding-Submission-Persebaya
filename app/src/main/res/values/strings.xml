@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Submission Pemain Persebaya</string>
+    <string name="players_name">Nama Pemain</string>
+    <string name="Informasi_pemain">Detail Pemain</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+    <string name="profil_pemain">Profil Pemain</string>
+    <string name="detail">Detail</string>
+    <string name="nama">Ahmad Irfaan Hibatullah</string>
+    <string name="email">irfaan.hibatullah@gmail.com</string>
+    <string name="title_profil">Nomer \nTempat-Lahir \nTanggal-Lahir \nPenampilan \nGol</string>
+    <string name="content_profil">Konten Profil</string>
+    <string name="detail_pemain">Detail Pemain</string>
+    <string name="detail_content">Konten Detail</string>
+    <string name="List_Pemain">List Pemain</string>
+    <string name="Kartu_Pemain">Kartu Pemain</string>
+    <string name="splash_screen">Salam Satu Nyali Wani</string>
+</resources>
