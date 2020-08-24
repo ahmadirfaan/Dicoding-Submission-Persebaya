@@ -4,8 +4,10 @@ This is project for submission in Class dicoding.com for path learning "Belajar 
 # Screen Shot
 ![alt text](https://github.com/ahmadirfaan/Dicoding-Submission-Persebaya/raw/master/Screenshot/About.JPG)
 ![alt text](https://github.com/ahmadirfaan/Dicoding-Submission-Persebaya/raw/master/Screenshot/Detail.JPG)
+
 ![alt text](https://github.com/ahmadirfaan/Dicoding-Submission-Persebaya/raw/master/Screenshot/List%201.JPG)
 ![alt text](https://github.com/ahmadirfaan/Dicoding-Submission-Persebaya/raw/master/Screenshot/List%202.JPG)
+
 ![alt text](https://github.com/ahmadirfaan/Dicoding-Submission-Persebaya/raw/master/Screenshot/Menu.JPG)
 ![alt text](https://github.com/ahmadirfaan/Dicoding-Submission-Persebaya/raw/master/Screenshot/Splash%20Screen.JPG)
 
